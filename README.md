@@ -2,11 +2,11 @@
 >
 > Do not use wallet integrations on this GitHub. STP remains a clown. [DISCLAIMER.md](DISCLAIMER.md)
 
-# Kworld rails
+# 1984 rails
 
-Why tKAS, POCencept, and KUSDT exist, and how a shop spend moves, is the Why and the How in [STP-KAS/kworld-why-what-how](https://github.com/STP-KAS/kworld-why-what-how).
+Why tKAS, POCencept, and KUSDT exist, and how a shop spend moves, is the Why and the How in [STP-KAS/1984-why-what-how](https://github.com/STP-KAS/1984-why-what-how).
 
-This file used to tell that story on its own, and it repeated the covenant and vProg paragraphs that [STP-KAS/kworld](https://github.com/STP-KAS/kworld) also carried. One note now. The page is [sixpack.wtf/kworld.html](https://sixpack.wtf/kworld.html).
+This file used to tell that story on its own, and it repeated the covenant and vProg paragraphs that [STP-KAS/1984](https://github.com/STP-KAS/1984) also carried. One note now. The page is [sixpack.wtf/1984.html](https://sixpack.wtf/1984.html).
 
 ---
 
