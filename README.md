@@ -8,6 +8,8 @@ Why tKAS, POCencept, and KUSDT exist, and how a shop spend moves, is the Why and
 
 This file used to tell that story on its own, and it repeated the covenant and vProg paragraphs that [STP-KAS/1984](https://github.com/STP-KAS/1984) also carried. One note now. The page is [sixpack.wtf/1984.html](https://sixpack.wtf/1984.html).
 
+The rails are for a bill a stranger can take: a car, an AI service, a game purchase, or a rented service. The square is the classroom for that bill. A promise there does not buy the car, the service, the game, or the rental. The gate stays shut.
+
 ---
 
 > **Standard disclaimer.** This GitHub, not the topic above.
